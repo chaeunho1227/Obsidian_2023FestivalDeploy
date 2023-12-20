@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "630d416c0cf189ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "185a9c81cdaecd58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dbff907e8956596",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "축제 사이트 배포.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3903cabf490c02d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "02720ea79e125fb8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9c381c1313375c0c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f09acfb795cab38b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f8e8efd6c8d3d567",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e4c4d670f0526f09",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0b0002858e56eff2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "축제 사이트 배포.png",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0b2cd91e7ead4c07",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "축제 사이트 배포.png",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cf8eb9df391487f2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "축제 사이트 배포.png"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "8dbff907e8956596",
+  "lastOpenFiles": [
+    "축제 사이트 배포.md",
+    "CICD.md",
+    "축제 사이트 배포.png",
+    "도메인.md",
+    "django.yml의 내용.md"
+  ]
+}

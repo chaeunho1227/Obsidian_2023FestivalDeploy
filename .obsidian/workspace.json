@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "c1936b50a31c897c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c6f663ca3213c90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1c636ced7d072c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "012858cf22700ff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "581c28c70633f9ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b591e09b7dff1144",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b03a63e108c6607",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:/  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3445513cd863dec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55b299887348d9ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6d093806bb0fb16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c7bbc5b50b10185",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10c6f0209a9caf49",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e547c801113a0402",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "95b0f7ad4e365cc7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "f1c636ced7d072c4",
+  "lastOpenFiles": [
+    "축제 사이트 배포.md",
+    "README.md",
+    "축제.md",
+    "[[축제.md",
+    "[[축제사이트배포]].md",
+    "무제 폴더/축제 사이트 배포.png",
+    "무제 폴더/git action.md",
+    "MY AWARDS.md",
+    "무제 폴더 1",
+    "무제 폴더/참조.md",
+    "무제 폴더/CICD.md",
+    "무제 폴더/도메인.md",
+    "무제 폴더/2023 야단법석 CICD workflow.md",
+    "무제 폴더/Docker/가상화.md",
+    "무제 폴더/Docker/컨테이너.md",
+    "무제 폴더/Docker/Docker.md",
+    "무제 폴더",
+    "무제 폴더/Docker",
+    "축제 사이트.md",
+    "CI/CD.md",
+    "CI",
+    "외부 임베드.md",
+    "NX.md",
+    "NCP.md"
+  ]
+}
